@@ -1,3 +1,15 @@
 # JavaScript-Essentials
 
-This Repo consist of JavaScript essential syntax and functions and all the necessary fundamentals
+This Repo consist of JavaScript essential syntax and functions and all the necessary fundamentals such as:
+
+-Variable Scope
+
+-Flow Control With Statements
+
+-Dom Manipulation
+
+-Event Listeners
+
+-Array Methods
+
+-
